@@ -9,6 +9,8 @@
 ## 📄 Abstract
 Standard propulsion relies on the expansion of gases (Explosion). This project simulates an alternative topological mechanism: **Implosion**. By modeling a high-voltage dielectric medium subjected to magnetic torsion, we demonstrate the formation of a **Hyperbolic Vortex**—a self-organizing geometry that creates a central vacuum node, theoretically allowing for propellant-less propulsion via the Biefeld-Brown effect.
 
+[Read Research Paper (PDF)](paper/Dielectric_Vortex_Lift.pdf)
+
 ## 🔬 The Findings
 
 ### 1. The Geometry of Implosion
